@@ -10,3 +10,4 @@
   * For More Information 
   * Copyrights © (AA)-Design. All rights reserved.
   * Copyrights © (AA) All rights reserved.
+  * Simple Credit: aadarkcode on github
